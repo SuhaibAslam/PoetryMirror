@@ -1,4 +1,4 @@
-# PoetryMirror: Uses natural language generation, user emotions and co-creation to generate affective, poetic user reflections
+## PoetryMirror: Using natural language generation, user emotions and co-creation to generate affective, poetic user reflections
 
 PoetryMirror is a novel tool that reflects a user’s current inner state through poetry. PoetryMirror’s testing showed that users felt that their generated poems were influenced by them and reflected them. It was perceived as highly interesting, and it led to several guidelines for designing interactive, natural language generation applications. This project will be exhibited at a museum in Enschede as well.
 
