@@ -107,8 +107,6 @@ waitwindow.Maximize()
 print("Generating!")
 # generated_poem = "\n Here in the dark, \n where do we park? \n The world is on fire \n what is my desire?" # GENERATE FUNCTION --> MAKE SURE TO HAVE \n characters
 generated_poem = GeneratePoem(chosen_rhyming_scheme, sentiment.lower(), chosen_temperature)
-# generated_poem = "Penis am i big boi yo whadddup what is my name i steal from rich board people mad rhymes my n-word \n some\nsome\nbome"
-
 poem_id = getNextID() # implement ID
 
 final_choice_tuple = (sentiment, chosen_temperature, chosen_rhyming_scheme, generated_poem)
